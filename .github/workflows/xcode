@@ -1,0 +1,1 @@
+open -a Xcode /path/to/your/workspace.xcworkspace
